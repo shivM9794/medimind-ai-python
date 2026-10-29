@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+streamlit
+pydantic-settings
+python-multipart
+pymupdf
+boto3
+pytest
+httpx

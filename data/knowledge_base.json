@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "health-001",
+    "title": "Preparing for a medical appointment",
+    "source": "MediMind Demo Knowledge Base",
+    "content": "Before an appointment, prepare a list of symptoms, when they started, current medications, allergies, and questions for the clinician. Bring relevant medical records if available."
+  },
+  {
+    "id": "health-002",
+    "title": "Understanding medication instructions",
+    "source": "MediMind Demo Knowledge Base",
+    "content": "Follow the instructions provided by your licensed healthcare professional and the medication label. Ask a pharmacist or clinician if the dose, timing, interactions, or missed-dose instructions are unclear. Do not change a prescribed dose without professional guidance."
+  },
+  {
+    "id": "health-003",
+    "title": "Keeping health records organized",
+    "source": "MediMind Demo Knowledge Base",
+    "content": "Keep relevant test results, prescriptions, allergies, immunization records, and discharge summaries organized. Share records only with trusted healthcare professionals through appropriate secure channels."
+  },
+  {
+    "id": "health-004",
+    "title": "When to seek emergency help",
+    "source": "MediMind Demo Knowledge Base",
+    "content": "Severe difficulty breathing, suspected stroke, major bleeding, or severe chest pain may be emergencies. Contact local emergency services immediately when emergency symptoms occur. Do not delay urgent care to use an AI assistant."
+  }
+]
